@@ -2,7 +2,7 @@
 layout: cv
 title: David Bell's Resume
 ---
-# David Bell
+# David Bell Is The Human
 
 <div id="webaddress">
 <a href="d.bjorn.bell@gmail.com">d.bjorn.bell@gmail.com</a>
