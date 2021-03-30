@@ -2,7 +2,7 @@
 layout: cv
 title: David Bell's Resume
 ---
-# David Bell Is The Human
+# David Bell
 
 <div id="webaddress">
 <a href="d.bjorn.bell@gmail.com">d.bjorn.bell@gmail.com</a>
@@ -14,21 +14,14 @@ title: David Bell's Resume
 
 ## Education
 
-`2018 - 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
+BYU-Idaho – Senior, Data Science – 3.497 GPA
 
-## Related Experience
-
-### Internships
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+## Data Science Skills/Experience
+•	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
+•	Data visualization in R, specifically GGPlot (scatterplots, bar charts, boxplots, histograms, etc.)
+•	Data wrangling in Python using Pandas
+•	Data visualization in Python using Matplotlib and Altair
+•	Retrieving data from databases using SQL (SELECT, WHERE, FROM, GROUP BY, etc.)
+•	Passion for solving problems with data
+![image](https://user-images.githubusercontent.com/77762163/113049562-04019580-9161-11eb-8495-4dd88a302501.png)
 
