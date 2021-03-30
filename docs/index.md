@@ -14,7 +14,7 @@ title: David Bell's Resume
 
 ## Education
 
-BYU-Idaho – Senior, Data Science – 3.497 GPA
+BYU-Idaho – Senior, Data Science
 
 ## Data Science Skills/Experience
 *	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
