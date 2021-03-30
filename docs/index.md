@@ -17,11 +17,9 @@ title: David Bell's Resume
 BYU-Idaho – Senior, Data Science – 3.497 GPA
 
 ## Data Science Skills/Experience
-•	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
-•	Data visualization in R, specifically GGPlot (scatterplots, bar charts, boxplots, histograms, etc.)
-•	Data wrangling in Python using Pandas
-•	Data visualization in Python using Matplotlib and Altair
-•	Retrieving data from databases using SQL (SELECT, WHERE, FROM, GROUP BY, etc.)
-•	Passion for solving problems with data
-![image](https://user-images.githubusercontent.com/77762163/113049562-04019580-9161-11eb-8495-4dd88a302501.png)
-
+*	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
+*	Data visualization in R, specifically GGPlot (scatterplots, bar charts, boxplots, histograms, etc.)
+*	Data wrangling in Python using Pandas
+*	Data visualization in Python using Matplotlib and Altair
+*	Retrieving data from databases using SQL (SELECT, WHERE, FROM, GROUP BY, etc.)
+*	Passion for solving problems with data
