@@ -15,7 +15,9 @@ title: David Bell's Resume
 
 ## Education
 
-BYU-Idaho – Senior, Data Science
+__Brigham Young University - Idaho__, Rexburg, ID   
+Data Science
+`2018 - 2022`  
 
 ## Data Science Skills/Experience
 *	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
@@ -26,25 +28,40 @@ BYU-Idaho – Senior, Data Science
 *	Passion for solving problems with data
 
 ## Other Work Experience
-### **Dockside Restaurant, Coeur d’Alene Resort**                                                                 May – September 2019, July – September 2020 *Coeur d’Alene, ID.*
+
+__Dockside Restaurant, Coeur d’Alene Resort__ `May – September 2019, July – September 2020`
+ 
+*Coeur d’Alene, ID.*
+
 Waited tables and served customers in fast-paced/high-stress work environment.
 
-### Fullmer Brothers Landscaping	                                                                                                           June – July 2018
+__Fullmer Brothers Landscaping__ `June – July 2018`
+
 *Lehi, UT.*
+
 Pulled weeds and other landscaping jobs.
 
-### Vivint Solar	                                                                                                                        January – June 2018
+__Vivint Solar__ `January – June 2018`
+
 *Lehi, UT.*
+
 Assisted sales representatives via call center.
 
-### The UPS Store	                                                                                          February – December 2017, August – September 2018
+__The UPS Store__	`February – December 2017, August – September 2018`
+
 *Palmer, AK.*
+
 Retail associate, helped send packages, complete print jobs, and up-sell and cross-sell office supplies. 
 
-### Wilderness Express                                                                                                                        May – June 2017
+
+__Wilderness Express__ `May – June 2017`
+
 *Anchorage, AK.*
+
 Guided 12-hour train tours through the Alaskan wilderness, serving and attending to 70+ guests at a time.
 
-### Grand Teton Lodge Company 	                                                                                                        August – October 2016
+__Grand Teton Lodge Company__ `August – October 2016`
+
 *Moran, WY.*
+
 Fielded and transferred all phone calls directed to the company, assisted in emergency response.
