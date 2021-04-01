@@ -29,51 +29,39 @@ Data Science
 
 ## Other Work Experience
 
-__Dockside Restaurant, Coeur d’Alene Resort__
+__Dockside Restaurant, Coeur d’Alene Resort__ `May – September 2019, July – September 2020`
  
 *Coeur d’Alene, ID.*
 
-`May – September 2019, July – September 2020`
-
 Waited tables and served customers in fast-paced/high-stress work environment.
 
-__Fullmer Brothers Landscaping__ 
+__Fullmer Brothers Landscaping__ `June – July 2018`
 
 *Lehi, UT.*
-
-`June – July 2018`
 
 Pulled weeds and other landscaping jobs.
 
-__Vivint Solar__
+__Vivint Solar__ `January – June 2018`
 
 *Lehi, UT.*
 
-`January – June 2018`
-
 Assisted sales representatives via call center.
 
-__The UPS Store__	
+__The UPS Store__	`February – December 2017, August – September 2018`
 
 *Palmer, AK.*
-
-`February – December 2017, August – September 2018`
 
 Retail associate, helped send packages, complete print jobs, and up-sell and cross-sell office supplies. 
 
 
-__Wilderness Express__
+__Wilderness Express__ `May – June 2017`
 
 *Anchorage, AK.*
 
-`May – June 2017`
-
 Guided 12-hour train tours through the Alaskan wilderness, serving and attending to 70+ guests at a time.
 
-__Grand Teton Lodge Company__ 	 
+__Grand Teton Lodge Company__ `August – October 2016`
 
 *Moran, WY.*
-
-`August – October 2016`
 
 Fielded and transferred all phone calls directed to the company, assisted in emergency response.
