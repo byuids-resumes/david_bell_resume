@@ -37,22 +37,43 @@ __Dockside Restaurant, Coeur d’Alene Resort__
 
 Waited tables and served customers in fast-paced/high-stress work environment.
 
-### Fullmer Brothers Landscaping	                                                                                                           June – July 2018
+__Fullmer Brothers Landscaping__ 
+
 *Lehi, UT.*
+
+`June – July 2018`
+
 Pulled weeds and other landscaping jobs.
 
-### Vivint Solar	                                                                                                                        January – June 2018
+__Vivint Solar__
+
 *Lehi, UT.*
+
+`January – June 2018`
+
 Assisted sales representatives via call center.
 
-### The UPS Store	                                                                                          February – December 2017, August – September 2018
+__The UPS Store__	
+
 *Palmer, AK.*
+
+`February – December 2017, August – September 2018`
+
 Retail associate, helped send packages, complete print jobs, and up-sell and cross-sell office supplies. 
 
-### Wilderness Express                                                                                                                        May – June 2017
+
+__Wilderness Express__
+
 *Anchorage, AK.*
+
+`May – June 2017`
+
 Guided 12-hour train tours through the Alaskan wilderness, serving and attending to 70+ guests at a time.
 
-### Grand Teton Lodge Company 	                                                                                                        August – October 2016
+__Grand Teton Lodge Company__ 	 
+
 *Moran, WY.*
+
+`August – October 2016`
+
 Fielded and transferred all phone calls directed to the company, assisted in emergency response.
