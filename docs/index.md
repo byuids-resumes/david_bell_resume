@@ -15,9 +15,9 @@ title: David Bell's Resume
 
 ## Education
 
-`2018 - 2022`   
 __Brigham Young University - Idaho__, Rexburg, ID   
-- Data Science
+Data Science
+`2018 - 2022`  
 
 ## Data Science Skills/Experience
 *	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
@@ -29,9 +29,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Other Work Experience
 
-`May – September 2019, July – September 2020`
 __Dockside Restaurant, Coeur d’Alene Resort__
- *Coeur d’Alene, ID.*
+ 
+*Coeur d’Alene, ID.*
+
+`May – September 2019, July – September 2020`
 
 Waited tables and served customers in fast-paced/high-stress work environment.
 
