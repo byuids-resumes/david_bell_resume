@@ -15,7 +15,9 @@ title: David Bell's Resume
 
 ## Education
 
-BYU-Idaho – Senior, Data Science
+`2018 - 2022`   
+__Brigham Young University - Idaho__, Rexburg, ID   
+- Data Science
 
 ## Data Science Skills/Experience
 *	Data wrangling in R using dplyr (filter(), arrange(), mutate() and select())
@@ -26,7 +28,11 @@ BYU-Idaho – Senior, Data Science
 *	Passion for solving problems with data
 
 ## Other Work Experience
-### **Dockside Restaurant, Coeur d’Alene Resort**                                                                 May – September 2019, July – September 2020 *Coeur d’Alene, ID.*
+
+`May – September 2019, July – September 2020`
+__Dockside Restaurant, Coeur d’Alene Resort__
+ *Coeur d’Alene, ID.*
+
 Waited tables and served customers in fast-paced/high-stress work environment.
 
 ### Fullmer Brothers Landscaping	                                                                                                           June – July 2018
