@@ -25,7 +25,7 @@ BYU-Idaho – Senior, Data Science
 *	Passion for solving problems with data
 
 ## Other Work Experience
-### Dockside Restaurant, Coeur d’Alene Resort                                                                     May – September 2019, July – September 2020 *Coeur d’Alene, ID.*
+### **Dockside Restaurant, Coeur d’Alene Resort**                                                                 May – September 2019, July – September 2020 *Coeur d’Alene, ID.*
 Waited tables and served customers in fast-paced/high-stress work environment.
 
 ### Fullmer Brothers Landscaping	                                                                                                           June – July 2018
